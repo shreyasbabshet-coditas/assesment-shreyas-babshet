@@ -1,0 +1,18 @@
+.card {
+  border: 2px solid black;
+  width: 20rem;
+  margin: 1.5rem;
+  padding: 1rem;
+
+  &.red {
+    background-color: #f56262;
+  }
+
+  &.green {
+    background-color: green;
+  }
+
+  &.yellow {
+    background-color: yellow;
+  }
+}
